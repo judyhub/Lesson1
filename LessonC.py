@@ -13,6 +13,7 @@ elif bmi >= 18.5 and bmi < 25:
     print("Your weight is normal")
 elif bmi >= 25 and bmi < 30:
     print("You are overweight")
+
 elif bmi >= 30 and bmi < 35:
     print("You are mmoderately obese")
 elif bmi >= 35 and bmi < 40:
